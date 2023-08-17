@@ -19,11 +19,11 @@ For this assignment there were two requirements as given below:
        •	Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
        •	Analyse your dataset by using Pandas functions to answer the following questions:
    
-              o	How many months exist on Mars?
-              o	How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-              o	What are the coldest and the warmest months on Mars? by finding the average minimum daily temperature for all of the months and plotting the results as a bar chart.
-              o	Which months have the lowest and the highest atmospheric pressure on Mars? by finding the average daily atmospheric pressure of all the months and plotting the results as a bar chart.
-              o	About how many terrestrial (Earth) days exist in a Martian year? by considering how many days elapse on Earth in the time that Mars circles the Sun once and visually estimate the result by plotting the daily                 minimum temperature.
+                     o	How many months exist on Mars?
+                     o	How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+                     o	What are the coldest and the warmest months on Mars? by finding the average minimum daily temperature for all of the months and plotting the results as a bar chart.
+                     o	Which months have the lowest and the highest atmospheric pressure on Mars? by finding the average daily atmospheric pressure of all the months and plotting the results as a bar chart.
+                     o	About how many terrestrial (Earth) days exist in a Martian year? by considering how many days elapse on Earth in the time that Mars circles the Sun once and visually estimate the result by                                    plotting the daily minimum temperature.
 
        •	Export the DataFrame to a CSV file.
 
