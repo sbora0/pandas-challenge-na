@@ -31,6 +31,6 @@ Files Information:
 
        •	The file “part_1_mars_news.ipynb” is used to complete the first requirement.
        •	The file “part_2_mars_weather.ipynb” is used to complete the second requirement.
-       •	Two output files “mars_articles.json” and “mars_data.csv” are in “Output” folder 
+       •	Two output files “mars_articles.json” and “mars_data.csv” are in “Output” folder.
 
              
