@@ -1,15 +1,18 @@
 # pandas-challenge
 Pandas challenge assignment 4
 
-For this assignment there were two requirements as given below:
+For this assignment there were three requirements as given below:
 
-1. Scrape Titles and Preview Text from Mars News
+1. Database and Jupyter Notebook Set Up
 
-       •	Use automated browsing to visit the Mars news site "https://static.bc-edx.com/data/web/mars_news/index.html". Inspect the page to identify which elements to scrape.
-       •	Create a Beautiful Soup object and use it to extract text elements from the website.
-       •	Extract the titles and preview text of the news articles and store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview.
-       •	Store all the dictionaries in a Python list and print the list in your notebook.
-       •	Export the scraped data to a JSON file.
+       Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown         cell in your notebook.
+       Within your notebook, import the libraries you need: PyMongo and Pretty Print (pprint).
+       Create an instance of the Mongo Client.
+       Confirm that you created the database and loaded the data properly:
+       List the databases you have in MongoDB. Confirm that uk_food is listed.
+       List the collection(s) in the database to ensure that establishments is there.
+       Find and display one document in the establishments collection using find_one and display with pprint.
+       Assign the establishments collection to a variable to prepare the collection for use.
 
 3. Scrape and Analyse Mars Weather Data
        
