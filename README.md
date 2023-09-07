@@ -16,11 +16,12 @@ For this assignment there were three requirements as given below:
        • Use sample_values for the y values.
        • Use sample_values for the marker size.
        • Use otu_ids for the marker colors.
-       • Use otu_labels for the text values.
+       • The link to the github page is "https://sbora0.github.io".
+   
 
-4. Display the sample metadata, i.e., an individual's demographic information.
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
-6. Update all the plots when a new sample is selected.
+5. Display the sample metadata, i.e., an individual's demographic information.
+6. Display each key-value pair from the metadata JSON object somewhere on the page.
+7. Update all the plots when a new sample is selected.
 
 1. Database and Jupyter Notebook Set Up
 
